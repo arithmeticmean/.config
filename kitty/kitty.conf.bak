@@ -1,0 +1,30 @@
+shell fish
+background_opacity 0.8
+
+# font configurations
+font_family FiraCode Nerd Font 
+
+font_size 	  24.0
+bold_font         auto
+italic_font       auto
+bold_italic_font  auto
+
+repaint_delay 7
+sync_to_monitor yes
+
+# internal border
+window_padding_width 20
+
+# scroll with mouse
+
+disable_ligatures always
+
+
+
+
+
+
+# BEGIN_KITTY_THEME
+# Hurtado
+include current-theme.conf
+# END_KITTY_THEME
